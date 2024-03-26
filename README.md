@@ -5,8 +5,7 @@ Technologies used: HTML, CSS, JavaScript, Bootstrap, Ajax and Chart.js for data 
 
 
 Website Display:
-<img width="946" alt="Screenshot 2023-12-13 165805" src="https://github.com/rittz1998/PocketPal_ExpenseTracker/asset![Uploading dashboard.png…]()
-s/103475842/84469bf8-780d-4f17-95cb-6e05dddafb9a">
+<img width="946" alt="Screenshot 2023-12-13 165805" src="https://github.com/rittz1998/PocketPal_ExpenseTracker/assets/103475842/e0e46bfd-9c65-440e-822a-af9090a7ba83">
 They were designed and implemented from scratch using agile process and design principles.
 Added two design patterns:
 1) Observer Pattern
